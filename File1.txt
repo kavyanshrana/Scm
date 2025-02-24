@@ -1,2 +1,5 @@
+ii
 This is file.
 This is a file.
+added another.
+a new line added.
